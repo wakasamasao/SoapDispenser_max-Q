@@ -4,6 +4,9 @@
 This project is made by SpaceAppsChallenge.
 https://covid19.spaceappschallenge.org/challenges/covid-challenges/art-it-all/teams/wakasa-kikaku/project
 
+DemoMovie
+https://youtu.be/f4UoPqHxwaI
+
 Hand washing is essential to prevent infection.
 To help with that, we have developed the soap dispenser "max Q".
 The bubbles of the hand soap are integrated with the smoke of the launch video, which makes you feel better. 
